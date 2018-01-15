@@ -1,0 +1,20 @@
+{
+  "name": "Redux_Tutorial",
+  "version": "1.0.0",
+  "description": "Following the redux tutorial at https://auth0.com/blog/redux-practical-tutorial/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwlh/Redux_Tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwlh/Redux_Tutorial/issues"
+  },
+  "homepage": "https://github.com/jwlh/Redux_Tutorial#readme"
+}
