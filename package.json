@@ -4,6 +4,7 @@
   "description": "Following the redux tutorial at https://auth0.com/blog/redux-practical-tutorial/",
   "main": "index.js",
   "scripts": {
+    "start": "babel-node src/",
     "test": "jest",
     "test:watch": "npm test -- --watch"
   },
