@@ -40,7 +40,7 @@ describe('reducers', () => {
       id: 1
     }));
     expect(stateStep3.expenses.length).toEqual(1);
-    expect(stateStep3.balance).Equal(36);
+    expect(stateStep3.balance).toEqual(36);
   });
 
   it('should return the default state', () => {
