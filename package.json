@@ -28,7 +28,7 @@
     "jest": "^22.1.0"
   },
   "dependencies": {
-    "babel-preset-env": "^1.6.1",
+    "babel-preset-env": "^1.7.0",
     "redux": "^3.7.2"
   }
 }
